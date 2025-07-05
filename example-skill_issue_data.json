@@ -1,0 +1,314 @@
+{
+  "teams": {
+    "Team 1": {
+      "members": [
+        "123456789012345678 these are Discord user IDs",
+        "234567890123456789",
+        "345678901234567890",
+        "456789012345678901"
+      ],
+      "points": 37,
+      "unlocked_tiers": ["easy", "medium"],
+      "boards": {
+        "easy": {
+          "A1": {
+            "complete": true,
+            "name": "Kill Giant Mole",
+            "details": "Defeat the Giant Mole in under 5 minutes."
+          },
+          "A2": {
+            "complete": true,
+            "name": "Hespori 50 KC",
+            "details": "Complete 50 Hespori kills."
+          },
+          "A3": {
+            "complete": false,
+            "name": "Wintertodt 10 Kills",
+            "details": "Complete 10 Wintertodt games."
+          },
+          "B1": {
+            "complete": true,
+            "name": "Barrows Chest",
+            "details": "Loot 10 Barrows Chests."
+          },
+          "B2": {
+            "complete": true,
+            "name": "Obor Kill",
+            "details": "Defeat Obor."
+          },
+          "B3": {
+            "complete": false,
+            "name": "Bryophyta Kill",
+            "details": "Defeat Bryophyta."
+          },
+          "C1": {
+            "complete": true,
+            "name": "KBD Kill",
+            "details": "Defeat the King Black Dragon."
+          },
+          "C2": {
+            "complete": false,
+            "name": "Chaos Fanatic Kill",
+            "details": "Defeat the Chaos Fanatic."
+          },
+          "C3": {
+            "complete": false,
+            "name": "Crazy Archaeologist Kill",
+            "details": "Defeat the Crazy Archaeologist."
+          }
+        },
+        "medium": {
+          "A1": {
+            "complete": true,
+            "name": "Fight Caves",
+            "details": "Complete the Fight Caves."
+          },
+          "A2": {
+            "complete": true,
+            "name": "Vorkath Kill",
+            "details": "Defeat Vorkath."
+          },
+          "A3": {
+            "complete": false,
+            "name": "Zulrah Kill",
+            "details": "Defeat Zulrah."
+          },
+          "B1": {
+            "complete": true,
+            "name": "Kraken Kill",
+            "details": "Defeat the Kraken."
+          },
+          "B2": {
+            "complete": true,
+            "name": "Demonic Gorilla Kill",
+            "details": "Defeat a Demonic Gorilla."
+          },
+          "B3": {
+            "complete": false,
+            "name": "Sarachnis Kill",
+            "details": "Defeat Sarachnis."
+          },
+          "C1": {
+            "complete": true,
+            "name": "Callisto Kill",
+            "details": "Defeat Callisto."
+          },
+          "C2": {
+            "complete": false,
+            "name": "Vet'ion Kill",
+            "details": "Defeat Vet'ion."
+          },
+          "C3": {
+            "complete": false,
+            "name": "Venenatis Kill",
+            "details": "Defeat Venenatis."
+          }
+        },
+        "hard": {
+          "A1": {
+            "complete": true,
+            "name": "Chambers of Xeric",
+            "details": "Complete a standard raid."
+          },
+          "A2": {
+            "complete": false,
+            "name": "Theatre of Blood",
+            "details": "Complete a standard ToB run."
+          },
+          "A3": {
+            "complete": false,
+            "name": "Gauntlet Completion",
+            "details": "Complete The Gauntlet."
+          },
+          "B1": {
+            "complete": false,
+            "name": "Corrupted Gauntlet",
+            "details": "Complete the Corrupted Gauntlet."
+          },
+          "B2": {
+            "complete": false,
+            "name": "Kalphite Queen Kill",
+            "details": "Defeat the Kalphite Queen."
+          },
+          "B3": {
+            "complete": false,
+            "name": "Chaos Elemental Kill",
+            "details": "Defeat the Chaos Elemental."
+          },
+          "C1": {
+            "complete": false,
+            "name": "Bandos Kill",
+            "details": "Defeat General Graardor."
+          },
+          "C2": {
+            "complete": false,
+            "name": "Armadyl Kill",
+            "details": "Defeat Kree'arra."
+          },
+          "C3": {
+            "complete": false,
+            "name": "Zamorak Kill",
+            "details": "Defeat K'ril Tsutsaroth."
+          }
+        },
+        "elite": {
+          "A1": {
+            "complete": false,
+            "name": "Hard Mode ToB",
+            "details": "Complete Theatre of Blood: Hard Mode."
+          },
+          "A2": {
+            "complete": false,
+            "name": "CM Chambers",
+            "details": "Complete Challenge Mode Chambers of Xeric."
+          },
+          "A3": {
+            "complete": false,
+            "name": "Corrupted Gauntlet x5",
+            "details": "Complete the Corrupted Gauntlet 5 times."
+          },
+          "B1": {
+            "complete": false,
+            "name": "Phosani's Nightmare",
+            "details": "Defeat Phosani's Nightmare."
+          },
+          "B2": {
+            "complete": false,
+            "name": "Wilderness Boss Rework Kill",
+            "details": "Kill a Wilderness Boss (Reworked version)."
+          },
+          "B3": {
+            "complete": false,
+            "name": "Kraken Speedrun",
+            "details": "Defeat Kraken in under 1 minute."
+          },
+          "C1": {
+            "complete": false,
+            "name": "Dagannoth Kings Trio",
+            "details": "Defeat all 3 Dagannoth Kings in one trip."
+          },
+          "C2": {
+            "complete": false,
+            "name": "Cerberus Speedrun",
+            "details": "Defeat Cerberus in under 1 minute."
+          },
+          "C3": {
+            "complete": false,
+            "name": "Hydra Speedrun",
+            "details": "Defeat Alchemical Hydra in under 2 minutes."
+          }
+        },
+        "master": {
+          "A1": {
+            "complete": false,
+            "name": "6 Jads",
+            "details": "Complete the 6 Jad challenge in Fight Caves."
+          },
+          "A2": {
+            "complete": false,
+            "name": "TOB Trio No Deaths",
+            "details": "Complete Theatre of Blood Trio with no deaths."
+          },
+          "A3": {
+            "complete": false,
+            "name": "Phosani's Nightmare x10",
+            "details": "Defeat Phosani's Nightmare 10 times."
+          },
+          "B1": {
+            "complete": false,
+            "name": "Zuk Completion",
+            "details": "Defeat TzKal-Zuk in the Inferno."
+          },
+          "B2": {
+            "complete": false,
+            "name": "CM Chambers Trio",
+            "details": "Complete Challenge Mode Chambers of Xeric Trio."
+          },
+          "B3": {
+            "complete": false,
+            "name": "Elite Clue Scroll",
+            "details": "Complete an Elite Clue Scroll."
+          },
+          "C1": {
+            "complete": false,
+            "name": "Hydra No Prayer Flick",
+            "details": "Defeat Hydra without switching protection prayers."
+          },
+          "C2": {
+            "complete": false,
+            "name": "Kree'arra Speedrun",
+            "details": "Defeat Kree'arra in under 45 seconds."
+          },
+          "C3": {
+            "complete": false,
+            "name": "Wilderness Boss Streak",
+            "details": "Kill any Wilderness Boss 3 times in a row without banking."
+          }
+        },
+        "gm": {
+          "A1": {
+            "complete": false,
+            "name": "Inferno Speedrun",
+            "details": "Complete the Inferno in under 65 minutes."
+          },
+          "A2": {
+            "complete": false,
+            "name": "TOB Hard Mode Trio No Deaths",
+            "details": "Complete Theatre of Blood: Hard Mode Trio with no deaths."
+          },
+          "A3": {
+            "complete": false,
+            "name": "Perfect Corrupted Gauntlet",
+            "details": "Perfect Corrupted Gauntlet Run (no damage taken)."
+          },
+          "B1": {
+            "complete": false,
+            "name": "Zuk No Prayer",
+            "details": "Defeat Zuk without using protection prayers."
+          },
+          "B2": {
+            "complete": false,
+            "name": "Phosani's Nightmare Perfect",
+            "details": "Perfect Phosani's Nightmare Kill (no damage taken)."
+          },
+          "B3": {
+            "complete": false,
+            "name": "Hydra Speedrun",
+            "details": "Defeat Alchemical Hydra in under 90 seconds."
+          },
+          "C1": {
+            "complete": false,
+            "name": "Inferno No Supplies",
+            "details": "Complete Inferno without food, brews, or restores."
+          },
+          "C2": {
+            "complete": false,
+            "name": "TOB All Roles Solo",
+            "details": "Solo Theatre of Blood covering all roles."
+          },
+          "C3": {
+            "complete": false,
+            "name": "GM Clue Scroll Completion",
+            "details": "Complete a Grandmaster Clue Scroll."
+          }
+        }
+      }
+    }
+  },
+  "tier_thresholds": {
+    "easy": 0,
+    "medium": 0,
+    "hard": 20,
+    "elite": 40,
+    "master": 65,
+    "gm": 100
+  },
+  "tile_points": {
+    "easy": 1,
+    "medium": 2,
+    "hard": 3,
+    "elite": 4,
+    "master": 5,
+    "gm": 6
+  }
+}
