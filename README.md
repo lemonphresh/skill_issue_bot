@@ -7,9 +7,13 @@
 ## ⚙️ Features
 
 ✅ Supports dynamic board sizes (2x2, 3x3, 4x4, etc.)
+
 ✅ Tracks tile completion and automatically awards points
+
 ✅ Automatically unlocks higher-tier boards based on points thresholds
+
 ✅ Team-based leaderboard
+
 ✅ Admin commands for manual adjustments, unlocking, and event control
 
 ---
